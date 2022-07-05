@@ -1,0 +1,16 @@
+body{
+    background: rgb(22, 56, 45);
+    color: white;
+    font: normal 20pt arial;
+}
+div{
+    padding: 10px 8px;
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 140px;
+    text-align: center;
+    background: #000;
+}
+div:hover{
+    background: rgb(77, 73, 73);
+}
